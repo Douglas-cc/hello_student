@@ -1,5 +1,5 @@
 # Hello Students
-É uma API Rest que tem como funcionalidade de casdatrar e gerenciar estudantes de uma instituição de ensino
+É uma API Rest que tem como funcionalidade de casdatrar e gerenciar informaões de alunos de uma instituição de ensino superior
 
 # Principais funcionalidades:
 - Cadastrar estudante
